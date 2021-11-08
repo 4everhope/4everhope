@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://4everhope.github.io/4everhope/sitemap.xml
