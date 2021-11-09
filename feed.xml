@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mutomaic</title>
-    <link href="https://4everhope.github.io/4everhope/feed.xml" rel="self" />
-    <link href="https://4everhope.github.io/4everhope" />
+    <link href="https://blog.zaqx.top/feed.xml" rel="self" />
+    <link href="https://blog.zaqx.top" />
     <updated>2021-11-09T09:20:07+08:00</updated>
     <author>
         <name>1</name>
     </author>
-    <id>https://4everhope.github.io/4everhope</id>
+    <id>https://blog.zaqx.top</id>
 
     <entry>
         <title>新的网络</title>
         <author>
             <name>1</name>
         </author>
-        <link href="https://4everhope.github.io/4everhope/xin-de-wang-luo.html"/>
-        <id>https://4everhope.github.io/4everhope/xin-de-wang-luo.html</id>
+        <link href="https://blog.zaqx.top/xin-de-wang-luo.html"/>
+        <id>https://blog.zaqx.top/xin-de-wang-luo.html</id>
             <category term="网络"/>
 
         <updated>2021-11-09T09:20:07+08:00</updated>
